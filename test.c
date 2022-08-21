@@ -2,6 +2,7 @@
 
 int main(void)
 {
+	int count;
 
 	return 0;
 }
